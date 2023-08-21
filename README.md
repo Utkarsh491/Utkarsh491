@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **utkarshnarayan49@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yVr5W_7dKMyFQusV83WSl46IYL9lsT_D/view?usp=share_link](https://drive.google.com/file/d/1yVr5W_7dKMyFQusV83WSl46IYL9lsT_D/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1yVr5W_7dKMyFQusV83WSl46IYL9lsT_D/view?usp=share_link)
 
-- ⚡ Fun fact **I've traveled to different mountain regions and collected a rock from each one! 🌍✈️**
+- ⚡ Fun fact **Full-stack devs: Pixels to Databases!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
