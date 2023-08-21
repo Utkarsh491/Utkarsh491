@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh491&" alt="utkarsh491" /></p>
 
-<h2>Let's code the future together! 💻🚀 #CodeArtistry #TechEnthusiast #DigitalInnovator</h2>
+<h2> Let's code the future together!   💻🚀</h2>
