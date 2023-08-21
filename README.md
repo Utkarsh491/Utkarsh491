@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1yVr5W_7dKMyFQusV83WSl46IYL9lsT_D/view?usp=share_link)
 
-- ⚡ Fun fact **Full-stack devs: Pixels to Databases!**
+-   **Full-stack devlopers: Pixels to Databases!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
